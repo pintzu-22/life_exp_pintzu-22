@@ -1,13 +1,13 @@
 ---
-title: "Examine Life Expectancy"
+title: "Examine Life Expectancy in github"
 editor: visual
 date: today
 format: html
 ---
+
 ```{r}
 library(tidyverse)
 ```
-
 
 # Abstract
 
@@ -18,4 +18,3 @@ Here, I re-examine the analysis of Oeppen and Vaupel (2002).
 ```{r}
 "hi"
 ```
-
